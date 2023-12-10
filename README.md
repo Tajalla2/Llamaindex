@@ -1,2 +1,2 @@
 # Llamaindex
-Code Llamindex documentation for learning purpose
+Code of Llamindex documentation for learning purpose
