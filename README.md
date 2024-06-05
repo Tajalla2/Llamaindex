@@ -1,2 +1,3 @@
 # Llamaindex
-Code of Llamindex documentation for learning purpose
+Simple chatbot with llamaindex
+
